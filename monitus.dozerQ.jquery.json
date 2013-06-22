@@ -1,0 +1,21 @@
+{
+	"name": "monitus.dozerQ",
+	"version": "1.0.0",
+	"title": "jQuery dozerQ, by Monitus",
+	"author": {
+		"name" : "Jean Le Clerc",
+		"email" : "jleclerc@monitus.com",
+		"url" : "http://www.monitus.com/"
+	},
+	"licenses" : [{
+		"type": "MIT",
+		"url": "http://opensource.org/licenses/MIT"
+	}],
+	"dependencies" : {
+		"jquery": ">=1.7.x"
+	},
+	"description": "monitus.dozerQ is a jQuery-UI plugin that defines an interface to build queries. It can be used to build MySQL queries, JSON queries – all up to you. It does not use the queries in any way; it is simply about letting your users build their queries, and then your application takes that query and executes it.",
+	"keywords": ["ui", "query", "sql", "mysql", "json"],
+	"homepage": "https://github.com/monitus/monitus.dozerQ",
+	"demo": "http://www.malus.ca/dozerq/"
+}

@@ -1,0 +1,46 @@
+.ui-dozerQ .ui-dozerQ-left { float: left; }
+.ui-dozerQ .ui-dozerQ-right { float: right; }
+.ui-dozerQ .ui-dozerQ-clear { clear: both; }
+
+.ui-dozerQ .ui-dozerQ-toolbar {
+	margin-bottom: 20px;
+	padding: 4px 10px;
+}
+.ui-dozerQ ul {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+.ui-dozerQ ul li {
+	padding: 1px 0px;
+	position: relative;
+	width: 100%;
+}
+.ui-dozerQ .ui-dozerQ-box {
+	background-image: none;
+}
+.ui-dozerQ ul.ui-dozerQ-box {
+	padding: 5px 5px 5px 10px;
+}
+.ui-dozerQ ul li div.ui-dozerQ-box {
+	padding: 5px;
+	line-height: 30px;
+}
+.ui-dozerQ ul li div.ui-dozerQ-box select {
+	margin-right: 10px;
+}
+.ui-dozerQ ul li div.ui-dozerQ-andor {
+	font-size: xx-small;
+	position:  absolute;
+	top: -17px;
+	left: -45px;
+	padding: 0px 2px;
+	line-height: 15px;
+	font-weight: bold;
+}
+.ui-dozerQ .monitusplugin-query-button {
+	margin-top: 20px;
+}
+.ui-dozerQ ul li.ui-sortable-helper {
+	background-image: none;
+}
